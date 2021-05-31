@@ -1,7 +1,8 @@
+![image001](https://user-images.githubusercontent.com/57386598/120127711-49d2ec80-c1ea-11eb-9ddf-0f9f416c958c.jpg)
 ### Hi there 👋
 
 
-**qkohst/qkohst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kukoh Santoso aka Qkoh St! Nice to meet you here!
 
 Here are some ideas to get you started:
 
