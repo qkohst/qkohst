@@ -1,7 +1,7 @@
 ![image001](https://user-images.githubusercontent.com/57386598/120131818-57d93b00-c1f3-11eb-9ee5-1bbd0b2377a0.jpg)
 
 ## Hi there 👋
-#### Github Pages : https://qkohst.github.io/
+#### Github Pages : https://qkohst.github.io
 
 #### I'm Kukoh Santoso aka Qkoh St! Nice to meet you here!
 
