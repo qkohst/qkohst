@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/qkohst/qkohst)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/qkohst)](https://badges.pufler.dev)
 
 #### I'm Kukoh Santoso aka Qkoh St! Nice to meet you here!
 
